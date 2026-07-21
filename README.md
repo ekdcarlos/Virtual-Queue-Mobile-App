@@ -34,3 +34,4 @@ A mobile application that allows students to:
 | Grace Ruguru | @grace001-dev | C025-01-0628/2023 |
 | Esther Achieng | [@username5] | C025-01-0655/2023 |
 | Agape Wanjiku | [@username6] | C025-01-0648/2023 |
+| Derrick Kipkoech | @Deroh14 | C025-01-0673/2023 |
