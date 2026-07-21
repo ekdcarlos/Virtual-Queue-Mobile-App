@@ -26,15 +26,14 @@ A mobile application that allows students to:
 
 ## 👥 Team Members
 
-| Name | GitHub Username |
-|------|----------------|
-| [Emmanuel Dena] | [@ekdcarlos] |
-| [James Onyancha] | [@jimmyzzi] |
-| [Isaac Ngatia] | [@iruka87] |
-| [Grace Ruguru] | [@grace001-dev] |
-| [Esther Achieng] | [@username5] |
-| [Agape Wanjiku] | [@username6] |
+| Name | GitHub Username | Reg No. |
+|------|----------------|---------------------|
+| Emmanuel Dena | @ekdcarlos | C025-01-0602/2023 |
+| James Onyancha | @jimmyzzi | C025-01-0683/2023 |
+| Isaac Ngatia | @iruka87 | C025-01-0642/2023 |
+| Grace Ruguru | @grace001-dev | C025-01-0628/2023 |
+| Esther Achieng | [@username5] | C025-01-0655/2023 |
+| Agape Wanjiku | [@username6] | C025-01-0648/2023 |
 | [Member 7] | [@username7] |
 | [Member 8] | [@username8] |
 | [Member 9] | [@username9] |
-| [Member 10] | [@username10] |
