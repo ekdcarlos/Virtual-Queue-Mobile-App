@@ -32,11 +32,7 @@ A mobile application that allows students to:
 | James Onyancha | @jimmyzzi | C025-01-0683/2023 |
 | Isaac Ngatia | @iruka87 | C025-01-0642/2023 |
 | Grace Ruguru | @grace001-dev | C025-01-0628/2023 |
-| Esther Achieng | [@EstherOwino] | C025-01-0655/2023 |
+| Esther Achieng | @EstherOwino | C025-01-0655/2023 |
 | Derick Kipkoech | @Deroh14 | C025-01-0673/2023 |
 
-📱 Virtual Queue Management Mobile App
-"Stop waiting in line. Start waiting smarter."
 
-📋 Project Overview
-A mobile application that helps university students manage waiting time at various service points by providing a real-time virtual queue system. Students can join queues remotely, track their position, and receive notifications when it's their turn—eliminating the need to physically stand in line.
