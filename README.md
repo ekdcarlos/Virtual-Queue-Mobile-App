@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-### Problem Statement
+### Problem Statement:
 University students waste significant time waiting in physical queues at administrative offices including:
 - Registry Office (course registration, transcripts)
 - Finance Office (fee payments, receipts)
