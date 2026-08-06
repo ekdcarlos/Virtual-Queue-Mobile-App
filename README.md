@@ -24,7 +24,7 @@ A mobile application that allows students to:
 - Leave or rejoin queues easily
 - Rate service experiences
 
-## Team Members
+## Team Members ## 
 
 | Name | GitHub Username | Reg No. |
 |------|----------------|---------------------|
