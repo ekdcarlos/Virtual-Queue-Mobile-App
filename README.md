@@ -139,3 +139,25 @@ Service Discovery – Browse all service points with opening hours and location
 • Receive "Your Turn!" alert
 • Leave queue with confirmation
 • View queue history
+
+**Notifications**
+• When 10 positions ahead
+• When 5 positions ahead
+• When 2 positions ahead
+• "It's your turn" alert
+• Service completion confirmation
+• 5-minute reminder before turn
+**Feedback & History**
+• Rate service experience (⭐1-5)
+• Provide optional feedback
+• View past queue history
+• Report issues
+**Usability Requirements**
+• Touch-Friendly Targets – All buttons ≥44px for easy tapping
+• Clear Status Visibility – Queue position always visible
+• Simple Flows – 3-step process: Select → Join → Confirm
+• Clear Feedback – Every action has visible confirmation
+• Error Prevention – Confirm before leaving critical queues
+• Accessibility – High contrast, clear labels, screen reader compatible
+• Consistent Navigation – Bottom tab bar for main sections
+• Minimal Cognitive Load – One primary action per screen
