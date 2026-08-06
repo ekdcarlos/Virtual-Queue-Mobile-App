@@ -161,43 +161,64 @@ Service Discovery – Browse all service points with opening hours and location
 • Accessibility – High contrast, clear labels, screen reader compatible
 • Consistent Navigation – Bottom tab bar for main sections
 • Minimal Cognitive Load – One primary action per screen
-Usability Testing Summary
- * Participants: 5 university students across various academic years and programs.
- * Tasks Tested: Joining a virtual queue, monitoring position, canceling/leaving, viewing history/rejoining, and responding to turn notifications.
- * Results:
-   * 92% task completion rate across all scenarios.
-   * Average time on task reduced from 45 seconds to 28 seconds post-iteration.
-   * Average user satisfaction rating of 4.3/5.
-Key Issues Identified and Resolved
- * Inconsistent terminology (High severity): Standardized all instances of "Check-in" to "Join Queue" (Resolved).
- * Excessive steps to join (High severity): Introduced a Quick Join widget on the home screen to cut down 4–5 step flows (Resolved).
- * Missing office locations (Medium severity): Added full addresses and interactive map pins (Resolved).
- * Static progress bar (Medium severity): Implemented visual progression animations (Resolved).
- * Unclear rejoin process (Medium severity): Integrated a direct "Rejoin" button within the history tab (Resolved).
- * Missing peak times (Low severity): Added a busy-hour indicator for better planning (Resolved).
-Technologies Used
- * Balsamiq: Low-fidelity wireframing and interactive prototyping.
- * GitHub: Version control, team collaboration, and code submission.
- * GitHub Issues: Task management and bug tracking.
- * Google Docs: Collaborative documentation and report drafting.
-HCI Principles Applied
- * Visibility: Queue position and estimated wait times remain continuously visible.
- * Feedback: System provides instant visual validation for joins, leaves, and confirmations.
- * Consistency: Standardized UI patterns, button styles, and terminology across screens.
- * Constraints: Modal dialogs intercept accidental queue exits.
- * Affordance: Tappable elements feature clear visual depth and notification prompts.
- * Mapping: Digital queue movement directly mirrors physical waiting lines.
- * Error Prevention: Mandatory confirmation step before entering or exiting a queue.
- * Flexibility: Supports multiple entry paths via Quick Join, Browse, or Search.
- * Accessibility: High contrast ratios, large tap targets, and clean label design.
- * Recognition Over Recall: Visible service lists reduce reliance on memory.
-Future Improvements
- * Admin dashboard: Staff tools for live queue management and service analytics.
- * Peak time analytics: Historical traffic data to help users avoid busy hours.
- * Calendar integration: Sync queue appointments with university schedules.
- * Multi-queue management: Support for joining multiple service lines simultaneously.
- * In-app map: Integrated navigation to guide users directly to service desks.
- * Multi-channel alerts: SMS and email notification options alongside push alerts.
- * Language support: Localization options for local languages.
- * Offline mode: Cached data view for offline access to queue details.
-   
+## Usability Testing Summary
+
+*Participants*
+
+- 5 university students from various years and programs.
+
+*Tasks Tested*
+
+- Join a virtual queue.
+- Monitor queue position.
+- Cancel/leave a queue.
+- View history and rejoin.
+- Handle turn notifications.
+
+*Results*
+
+- *Task Completion Rate:* 92% (all tasks completed successfully).
+- *Average Time on Task:* 45 seconds (initial prototype) → 28 seconds (after iteration).
+- *User Satisfaction:* 4.3/5 average rating.
+
+*Key Issues Identified & Resolved*
+
+| Issue | Severity | Solution | Status |
+|--------|----------|----------|--------|
+| Inconsistent terminology ("Join Queue" vs "Check-in") | High | Used "Join Queue" everywhere | Resolved |
+| Too many clicks to join (4–5 steps) | High | Added "Quick Join" widget on home | Resolved |
+| Missing office location details | Medium | Added address and map pin | Resolved |
+| Progress bar didn't animate | Medium | Added visual progression | Resolved |
+| Peak times not shown | Low | Added busy hour indicator | Resolved |
+| Rejoin process unclear | Medium | Added "Rejoin" button in history | Resolved |
+
+## Technologies Used
+
+- *Balsamiq* – Low-fidelity wireframing and prototyping.
+- *GitHub* – Version control, collaboration, and submission.
+- *GitHub Issues* – Task tracking and project management.
+- *Google Docs* – Collaborative documentation.
+
+## HCI Principles Applied
+
+- *Visibility* – Queue position and wait time are always visible on the home screen.
+- *Feedback* – Every action (join, leave, confirm) provides clear visual confirmation.
+- *Consistency* – Same navigation patterns, button styles, and terminology throughout.
+- *Constraints* – Confirmation dialogs prevent accidental queue exits.
+- *Affordance* – Buttons are clearly tappable; notifications are prominent.
+- *Mapping* – Queue position maps to the real-world waiting experience.
+- *Error Prevention* – Confirm before leaving and before joining a queue.
+- *Flexibility* – Multiple ways to join (Quick Join, Browse, Search).
+- *Accessibility* – Large touch targets, high contrast, and clear labels.
+- *Recognition over Recall* – Service list visible; no need to remember office names.
+
+## Future Improvements
+
+- *Admin Dashboard* – Allow staff to manage queues and view analytics.
+- *Peak Time Analytics* – Show historical busy patterns.
+- *Calendar Integration* – Sync with the university calendar.
+- *Multi-Queue Management* – Join multiple queues simultaneously.
+- *In-App Map* – Show directions to service points.
+- *Email/SMS Notifications* – Backup notification methods.
+- *Language Support* – Include local languages.
+- *Offline Mode* – View saved queue information.
