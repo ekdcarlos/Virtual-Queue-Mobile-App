@@ -83,4 +83,58 @@ Needs from App:
 •	Visual progress indicators
 •	Office location and directions
 •	Simple, uncluttered interface
+**Key Features**
+Service Discovery – Browse all service points with opening hours and locations
+• Join Queue – Join a virtual queue with one tap
+• Position Tracking – See real-time position and estimated wait time
+• Smart Notifications – Get alerts when you're near the front (10, 5, 2 positions ahead)
+• Queue History – View past visits, wait times, and ratings
+• Service Rating – Rate your experience and provide feedback
+• Location Info – View office locations and directions
+• Peak Time Insights – Know when offices are busiest
 
+ **Core User Scenarios**
+**Scenario 1: Join a Virtual Queue**
+1.User logs in with student ID
+2.Browses or searches for a service point (e.g., Registry Office)
+3.Views office details including location, hours, and current queue length
+4.Taps "Join Queue"
+5.Confirms the action
+6.Views their position (#4 of 12) and estimated wait time
+7.Receives notifications as their position advances
+8.Gets a "Your Turn!" alert
+9.Proceeds to the service point
+10.Confirms completion and rates the experience
+
+**Scenario 2: Cancel/Leave a Queue**
+1.User is currently in a queue
+2.Taps "Leave Queue" button
+3.Receives a confirmation prompt ("Are you sure?")
+4.Confirms cancellation
+5.Receives feedback: "You've left the queue"
+6.Returns to the dashboard
+
+**Scenario 3: View History & Re-join**
+1.User navigates to the History tab
+2.Views past queue visits with dates, times, and ratings
+3.Taps "Rejoin" button for a recent service
+4.Confirms and joins the queue instantly
+5.Views their new position
+
+ **Functional Requirements**
+**Authentication**
+• Login with student ID and PIN
+• Guest view for browsing (read-only)
+**Service Discovery**
+• Browse all service points
+• Filter/search for specific offices
+• View opening hours and locations
+• See current queue length and estimated wait time
+**Queue Management**
+• Join a virtual queue
+• View current position (#4 of 12)
+• View estimated wait time
+• Receive progress notifications (10, 5, 2 positions ahead)
+• Receive "Your Turn!" alert
+• Leave queue with confirmation
+• View queue history
