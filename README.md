@@ -83,6 +83,7 @@ Needs from App:
 •	Visual progress indicators
 •	Office location and directions
 •	Simple, uncluttered interface
+
 **Key Features**
 Service Discovery – Browse all service points with opening hours and locations
 • Join Queue – Join a virtual queue with one tap
