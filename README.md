@@ -38,9 +38,9 @@ A mobile application that allows students to:
 
 Target Users
 Primary Users
-•	University Students – Need efficient access to administrative services without wasting valuable study time.
-•	First-Year Students – Often unfamiliar with university processes and require clear guidance.
-•	International Students – May need extra support navigating university systems.
+-	**University Students** – Need efficient access to administrative services without wasting valuable study time.
+-	**First-Year Students** – Often unfamiliar with university processes and require clear guidance.
+-	**International Students** – May need extra support navigating university systems.
 Secondary Users
 •	University Staff – Want better crowd management and service efficiency at their service points.
 •	Administrators – Need data on service usage patterns to optimize operations.
