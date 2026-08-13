@@ -1,0 +1,3 @@
+This is the UI.txt file.
+The UI elements were created using Balsamiq software.
+They include 12 screens that give the general design and functioning of the system.
